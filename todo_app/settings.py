@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-ob#*2)^or5$p8-#7_^+5$$g^4o@_(z*pftqhyb&5gk&eo*#wfm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = [ALLOWED_HOSTS = ["todo-shammas.up.railway.app", "localhost", "127.0.0.1"]
+]
 
 
 # Application definition
